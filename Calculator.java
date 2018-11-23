@@ -1,5 +1,9 @@
 public class Calculator() {
 
+  public int mul(int a,int b){
+    return a*b;
+  }
+
   public int sum(int a, int b) {
     return a + b;
   }
