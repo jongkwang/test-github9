@@ -1,14 +1,7 @@
-public class Calculator() {
+package com.mycompany.test;
 
-  public int sum(int a, int b) {
-    return a + b;
-  }
-
-  public int minus(int a, intb ) {
-    return a - b;
-  }
-
-  public int mul(int a, int b){
-    return a * b;
+public class Calculator {
+  public static void main(String[] args) {
+    
   }
 }
